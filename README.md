@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my github! I'm a full-stack developer and explorer. Here, I share the code i wrote and has helped me in my projects and that I believe will be helpful to other developers too.
+Welcome to my github! 
 
 <!--
 **aadaabusraa/aadaabusraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
