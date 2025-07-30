@@ -67,7 +67,7 @@ My projects often blend **technical precision** with **creative problem-solving*
 
 > *“I want to learn more and more to see as beautiful what is necessary in things; then I shall be one of those who makes things beautiful. Amor fati: let that be my love henceforth!”
 — Friedrich Nietzsche"*  
-When I’m not coding, you can find me exploring **playing piano or bass guitar**, **running**, and **creative writing**.
+When I’m not coding, you can find me **exploring nature**, **playing piano or bass guitar**, **running**, and **creative writing**.
 
 📫 **Let’s Connect:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-ata%C5%9F-956703130/) 
