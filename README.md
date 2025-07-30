@@ -71,9 +71,8 @@ My projects often blend **technical precision** with **creative problem-solving*
 When I’m not coding, you can find me exploring **tea culture**, **photography**, and **creative writing**.
 
 📫 **Let’s Connect:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=flat-square&logo=aboutdotme&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-ata%C5%9F-956703130/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bbusra.atass@gmail.com)
 
 ---
 ⭐ **If you like my work, consider giving a star to my repositories!**
