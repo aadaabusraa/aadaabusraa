@@ -1,7 +1,7 @@
 # Hi there, I'm Büşra 👋
 
 Welcome to my corner of GitHub!  
-I’m a **Software Developer** & **Business Strategist** passionate about building **AI-powered automation**, **data-driven applications**, and **scalable backend systems**.  
+I’m an **Industrial Engineer**, a **Software Developer** & **Business Strategist** passionate about building **AI-powered automation**, **data-driven applications**, and **scalable backend systems**.  
 My projects often blend **technical precision** with **creative problem-solving** — from **full-stack apps** to **machine learning pipelines** and **business automation tools**.
 
 ---
