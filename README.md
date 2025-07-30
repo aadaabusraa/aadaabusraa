@@ -54,10 +54,11 @@ My projects often blend **technical precision** with **creative problem-solving*
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [**AI News Automation Platform**](#) | A Django + AI-powered system that scrapes, rewrites, and publishes news automatically | Python, Django, OpenAI API |
-| [**TikTok & Instagram Scraper**](#) | Asynchronous scraping tool for user data & analytics | Python, Playwright, Aiohttp |
-| [**Virtual Try-On SaaS**](#) | Web-based platform for AI-powered clothing try-ons | Django, AI Models, Flutter |
+| [**AI News Automation Platform**](#) | A Django + AI-powered system that scrapes, rewrites, and publishes news automatically | Python, Django, OpenAI API , Neo4j|
+| [**TikTok & Instagram Scraper**](#) | Asynchronous scraping tool for user data & analytics | Python, Playwright, Aiohttp , Streamlit |
+| [**Virtual Try-On SaaS**](#) | Web-based platform for AI-powered clothing try-ons | Django, AI Models, React Native, Neo4j|
 | [**Business Analytics Dashboard**](#) | Real-time dashboard for business KPIs | Django, PostgreSQL, Chart.js |
+| [**E-commerce Data Analytics**](#) | Real-time dashboard for e-commerce business owners that automate & optimize product search | Django, PostgreSQL, Selenium |
 
 ---
 
