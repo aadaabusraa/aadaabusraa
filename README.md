@@ -2,8 +2,9 @@
 
 Welcome to my github! 
 
-![Neo4j Certified Professional]([assets/neo4j-cert.png](https://graphacademy.neo4j.com/c/08291a2f-d8db-4985-a7c9-73d21ee00c8b/))
-[View Certificate]([[https://graphacademy.neo4j.com/certificates/abcdef123456](https://graphacademy.neo4j.com/c/08291a2f-d8db-4985-a7c9-73d21ee00c8b](https://graphacademy.neo4j.com/c/08291a2f-d8db-4985-a7c9-73d21ee00c8b/)))
+[![Neo4j Certified Professional](https://img.shields.io/badge/Neo4j-Certified%20Professional-008CC1?logo=neo4j&logoColor=white)](https://graphacademy.neo4j.com/c/08291a2f-d8db-4985-a7c9-73d21ee00c8b)
+
+
 
 
 <!--
