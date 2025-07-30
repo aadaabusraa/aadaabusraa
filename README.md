@@ -6,7 +6,7 @@ My projects often blend **technical precision** with **creative problem-solving*
 
 ---
 
-## 💼 About Me
+## About Me
 
 - 🔭 I’m currently working on: **AI-driven SaaS platforms**, **automation tools**, and **web scrapers**.
 - 🌱 Learning more about **Apache Kafka**, **Docker**, **Kubernetes**, and **Neo4j**.
