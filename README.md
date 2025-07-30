@@ -24,6 +24,7 @@ My projects often blend **technical precision** with **creative problem-solving*
 [![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=flat-square&logo=django&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
 [![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-Data%20Science-276DC3?style=flat-square&logo=r&logoColor=white)](#)
 
 ---
 
@@ -39,6 +40,7 @@ My projects often blend **technical precision** with **creative problem-solving*
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![R](https://img.shields.io/badge/R-Data%20Science-276DC3?style=flat-square&logo=r&logoColor=white)](#)
 
 **Cloud & DevOps:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,12 +60,6 @@ My projects often blend **technical precision** with **creative problem-solving*
 
 ---
 
-## 📊 GitHub Stats
-
-![Büşra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
-
----
 
 ## 🌸 A Little Extra
 
