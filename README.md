@@ -12,7 +12,7 @@ My projects often blend **technical precision** with **creative problem-solving*
 - 🌱 Learning more about **Apache Kafka**, **Docker**, **Kubernetes**, and **Neo4j**.
 - 🤝 Open to collaborating on: **AI products**, **automation projects**, and **data-heavy applications**.
 - 🎯 Goal: Build products that **save time, create impact**, and **scale effortlessly**.
-- 💬 Ask me about: **Python**, **Django**, **Flutter**, **Web Scraping**, **AI Automation**, **Business Strategy**.
+- 💬 Ask me about: **Python**, **Django**, **Web Scraping**, **AI Automation**, **Business Strategy**.
 - 🌍 Based in: **Istanbul, Turkey**.
 
 ---
@@ -22,7 +22,6 @@ My projects often blend **technical precision** with **creative problem-solving*
 [![Neo4j Certified Professional](https://img.shields.io/badge/Neo4j-Certified%20Professional-blue?style=flat-square&logo=neo4j)](https://graphacademy.neo4j.com/c/08291a2f-d8db-4985-a7c9-73d21ee00c8b)  
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=flat-square&logo=django&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
 [![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-Data%20Science-276DC3?style=flat-square&logo=r&logoColor=white)](#)
 
