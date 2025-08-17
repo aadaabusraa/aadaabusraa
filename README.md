@@ -1,4 +1,4 @@
-# Hi there, I'm Büşra 👋
+# Hi there, I'm Büşra Ataş 👋
 
 Welcome to my corner of GitHub!  
 I’m an **Industrial Engineer**, a **Software Developer** & **Business Strategist** passionate about building **AI-powered automation**, **data-driven applications**, and **scalable backend systems**.  
